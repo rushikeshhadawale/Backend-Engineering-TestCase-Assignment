@@ -17,7 +17,7 @@ GRANT ALL PRIVILEGES ON stockflow.* TO 'stockuser'@'localhost';
 FLUSH PRIVILEGES;
 
 4️)Clone Repository
-git clone https://github.com/rushikeshhadawale/stockflow.git
+git clone https://github.com/rushikeshhadawale/Backend-Engineering-TestCase-Assignment.git
 cd stockflow
 
 5️)Install Dependencies
